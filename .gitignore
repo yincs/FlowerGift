@@ -38,3 +38,5 @@ proguard/
 
 # System files
 .DS_Store
+
+target/

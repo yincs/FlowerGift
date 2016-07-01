@@ -1,0 +1,16 @@
+#MyEclipse Hibernate Properties
+#Fri Jul 01 18:17:13 CST 2016
+genVersionTag=false
+genAnnotations=false
+configFile=/FlowerGift/src/main/resources/spring/applicationContext.xml
+reStrategyClass=
+sessionFactoryId=sessionFactory
+profile=
+detectM2M=false
+genBasicCompId=false
+keyGenerator=
+createConfigFile=true
+basePersistenceClass=
+detectO2O=false
+useJavaTypes=true
+reSettingsFile=
